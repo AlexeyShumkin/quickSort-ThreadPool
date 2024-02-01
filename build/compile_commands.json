@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/awl/projects/quickSort-ThreadPool/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/pool.dir/main.cpp.o -c /home/awl/projects/quickSort-ThreadPool/main.cpp",
+  "file": "/home/awl/projects/quickSort-ThreadPool/main.cpp"
+},
+{
+  "directory": "/home/awl/projects/quickSort-ThreadPool/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/pool.dir/pool.cpp.o -c /home/awl/projects/quickSort-ThreadPool/pool.cpp",
+  "file": "/home/awl/projects/quickSort-ThreadPool/pool.cpp"
+},
+{
+  "directory": "/home/awl/projects/quickSort-ThreadPool/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/pool.dir/handler.cpp.o -c /home/awl/projects/quickSort-ThreadPool/handler.cpp",
+  "file": "/home/awl/projects/quickSort-ThreadPool/handler.cpp"
+}
+]
